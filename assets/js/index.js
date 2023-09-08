@@ -4,17 +4,14 @@ const getBackFrontService = document.getElementById("back-front")
 const getService = document.getElementById("service")
 
 getFrontService.addEventListener('click', ()=>{
-  front()
+  frontService()
 });
 
 getBackService.addEventListener('click', ()=>{
-  back()
+  backService()
 });
 
-
-
-
-function front(){
+function frontService(){
   getBackFrontService.setAttribute('class', 'service-back-front desative')
   const criarAbaFront = document.createElement("div")
   criarAbaFront.innerHTML = `<div class = "frontend">
@@ -38,7 +35,7 @@ function front(){
   service.appendChild(criarAbaFront);
 }
 
-function back(){
+function backService(){
   getBackFrontService.setAttribute('class', 'service-back-front desative')
   const criarAbaBack = document.createElement("div")
   criarAbaBack.innerHTML = `<div class = "backend">
