@@ -2,7 +2,6 @@ const getFrontService = document.getElementById("service-front")
 const getBackService = document.getElementById("service-back")
 const getBackFrontService = document.getElementById("back-front")
 const getService = document.getElementById("service")
-const getVoltar = document.getElementById("voltar")
 
 getFrontService.addEventListener('click', ()=>{
   front()
@@ -12,9 +11,7 @@ getBackService.addEventListener('click', ()=>{
   back()
 });
 
-getVoltar.addEventListener('click', ()=>{
-  recarregar()
-});
+
 
 
 function front(){
@@ -64,6 +61,3 @@ function back(){
 }
 
 
-function recarregar(){
-  location.reload()
-}
