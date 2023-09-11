@@ -25,9 +25,11 @@ header{
   padding: 5px 50px;
 }
 
-nav.desktop{
+
+.desktop{
   display: none;
 }
+
 
 .init{
   display: flex;
@@ -166,7 +168,7 @@ button:hover{
   border-bottom: 3px solid #BB3EE8;
 }
 
-.back-front{
+.projects-back-front{
   width: 85%;
   height: 80%;
   display: flex;
@@ -190,6 +192,9 @@ button:hover{
 
 
 .service-back-front.desative{
+  display: none;
+}
+.projects-back-front.desative{
   display: none;
 }
 
@@ -230,6 +235,7 @@ button:hover{
 .back-front h3,
 .service h2,
 .projects h2,
+.projects h3,
 .contacts h2{
   color: #BB3EE8;
 }
@@ -315,7 +321,7 @@ footer{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
   background-color: #57575770;
   padding: 40px 0;
 }
@@ -386,7 +392,8 @@ footer{
   width: 3rem;
 }
 
-.itens-service{
+.itens-service,
+.itens-projects{
   display: flex;
   width: 100vw;
   height: auto;
@@ -399,29 +406,55 @@ footer{
   display: flex;
   width: 100vw;
   height: 100%;
-  gap: .5rem;
+  gap: 1.5rem;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  padding: 10px;
 }
 
 .item{
   width: 8rem;
-  height: 12rem;
+  height: 8rem;
   background: rgba(87, 87, 87, 0.44);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .7rem;
+  border-radius: 1rem;
+}
+
+.item img{
+  width: 4rem;
+}
+
+
+.item-project{
+  width: 15rem;
+  height: 15rem;
+  background: rgba(87, 87, 87, 0.44);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .7rem;
+  border-radius: 1rem;
 }
 
 #voltar:hover{
   cursor: pointer;
   opacity: .7;
 }
-//responsivo
+
+
+/*responsivo*/
 
 @media screen and (min-width: 600px){
-  nav.desktop{
+  .desktop{
     display: flex;
   }
-
+  
   ul{
     display: flex;
     list-style: none;
@@ -430,24 +463,23 @@ footer{
     justify-content: space-between;
     font-size: 1.2rem;
   }
-  
+
   nav{
     width: 30vw;
     display: flex;
     justify-content: center;
   }
-  
+
   header a{
     text-decoration: none;
     color: white;
     padding: 10px;
   }
-  
+
   header a:hover{
     background-color: #BB3EE865;
   }
 }
-
 
 @media screen and (min-width: 705px){
   .apresentation h3{
@@ -506,14 +538,19 @@ footer{
 }
 
 .itens{
-  width: 90vw;
+  width: 80vw;
   gap: 1rem;
 }
 
 .item{
-  width: 18rem;
-  height: 25rem;
+  width: 10rem;
+  height: 10rem;
   background: rgba(87, 87, 87, 0.44);
+}
+
+.item:hover{
+  background-color: #b5b5b520;
+  opacity: .6;
 }
 
 
