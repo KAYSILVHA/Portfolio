@@ -438,15 +438,186 @@ footer{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: .7rem;
+  gap: 1.1rem;
   border-radius: 1rem;
+  transition: 0.8s ease-in-out;
+}
+
+.um::before{
+  content: "";
+  background-image: url("https://sc.movimentoods.org.br/wp-content/uploads/2019/09/14.png");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.dois::before{
+  content: "";
+  background-image: url("https://kaysilvha.github.io/cardapioElasNaTech-ohayoConfeitaria/assets/images/logo.png");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.tres::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.quatro::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.cinco::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+
+.seis::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.sete::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+
+.oito::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.nove::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.dez::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.onze::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+
+.doze::before{
+  content: "";
+  background-image: url("");
+  background-size: 100% 100%;
+  position: relative;
+  top: 1000;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+
+.item-project h2,
+.item-project p,
+.item-project .atalhos{
+  display: none;
+}
+
+
+.item-project:hover{
+  height: auto;
+  padding: 35px 0;
+}
+
+
+.item-project:hover h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.item-project:hover p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  padding: 10px 20px;
+}
+
+.item-project a{
+  color: #BB3EE8;
+}
+.item-project:hover .atalhos
+{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: justify;
+  padding: 0 20px;
+}
+
+
+.item-project:hover::before{
+  display: none;
 }
 
 #voltar:hover{
   cursor: pointer;
   opacity: .7;
 }
-
 
 /*responsivo*/
 

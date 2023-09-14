@@ -108,18 +108,114 @@ function frontProjects() {
   </div>
   <div class = "itens-projects">
     <div class="itens">
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
-      <div class="item-project"></div>
+      <div class="item-project um">
+        <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project dois">
+      <h2>Ohayo Confeitaria</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um cardápio bonito e responsivo. Aproveitei e criei um site inteiro para uma confeitaria fictícia!</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/cardapioElasNaTech-ohayoConfeitaria/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/cardapioElasNaTech-ohayoConfeitaria">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project tres">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project quatro">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project cinco">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project seis">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project sete">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project oito">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project nove">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project dez">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project onze">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
+      <div class="item-project doze">
+      <h2>Vida na Água</h2>
+        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
+        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+        <div class="atalhos">
+          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+        </div>
+      </div>
     </div>
   </div>`
   projects.appendChild(criarAbaFrontProjects);
