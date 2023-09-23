@@ -108,6 +108,7 @@ function frontProjects() {
   </div>
   <div class = "itens-projects">
     <div class="itens">
+
       <div class="item-project um">
         <h2>Vida na Água</h2>
         <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
@@ -117,6 +118,7 @@ function frontProjects() {
           <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project dois">
       <h2>Ohayo Confeitaria</h2>
         <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
@@ -126,94 +128,109 @@ function frontProjects() {
           <a href="https://github.com/KAYSILVHA/cardapioElasNaTech-ohayoConfeitaria">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project tres">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>Demon Slayer</h2>
+        <p>Outro entre muitos projetos com tema de Anime!! Um site muito legal que tem imagens dinâmicas com o tema do anime Kimetsu no Yaiba!</p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href="https://kaysilvha.github.io/demon_slayer_project/
+          ">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/demon_slayer_project">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project quatro">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>Primeiro projeto em js</h2>
+        <p>Este foi o primeiro projeto que desenvolvi sozinha utilizando JavaScript!
+        Um site dinâmico e com eventos, com o tema do Anime Welcome to Demon School! Iruma-Kun!
+        </p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href=":https://kaysilvha.github.io/demon_slayer_project/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/demon_slayer_project">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project cinco">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>Cardápio responsivo</h2>
+        <p>Me inspirei em um projeto que encontrei no Figma e fiz essa landing page! basicamente é a representação de um cardápio, logo mais ele terá mais funcionalidades.</p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href="https://kaysilvha.github.io/cardapioResponsivo/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/cardapioResponsivo">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project seis">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>Blogames</h2>
+        <p>Desafio de código proposto pelo curso de Front-End do VaiNaWeb.</p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href="https://kaysilvha.github.io/DesafioCodelandia-BLOGAMES/">Ver Projeto</a>
+          <a href=" https://github.com/KAYSILVHA/DesafioCodelandia-BLOGAMES">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project sete">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>Desafio Currículo ElasNaTech</h2>
+        <p>Este foi um dos desafios oferecido pelo Curso do ElasNaTech.
+        Tínhamos como objetivo, construir um currículo simples em HTML e CSS.</p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href="https://kaysilvha.github.io/desafio-HTML-elas-na-tech/
+          ">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/desafio-HTML-elas-na-tech">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project oito">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>Moon
+      </h2>
+        <p>Este foi um dos meus primeiros testes usando JavaScript.
+        Um projeto para mobile simples que identifica a fase da lua atual e indica alguns hábitos que podem melhorar sua saúde de acordo com a lua. 
+        </p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href="https://kaysilvha.github.io/moon/
+          ">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/moon">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project nove">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>Selfcare-Offer</h2>
+        <p>Um projeto que desenvolvemos em equipe no curso do VaiNaWeb!
+        </p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href=" https://kaysilvha.github.io/VNW-Selfcare-Offer/">Ver Projeto</a>
+          <a href=" https://github.com/KAYSILVHA/VNW-Selfcare-Offer
+          ">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project dez">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>Get.coffee</h2>
+        <p>Outro projeto oferecido como desafio pelo VNW! Muito fofo e bonito.</p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href="https://kaysilvha.github.io/get.coffee/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/get.coffee
+          ">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project onze">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>X-Men
+      </h2>
+        <p>Uauuu!! Simplesmente um dos Projetos mais legais que desenvolvi com o auxílio da comunidade DevEmDobro! Um site muito legal sobre X-men!
+        </p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href="https://kaysilvha.github.io/DevEmDobro-XMEN/">Ver Projeto</a>
+          <a href="https://github.com/KAYSILVHA/DevEmDobro-XMEN
+          ">Ver Repo</a>
         </div>
       </div>
+
       <div class="item-project doze">
-      <h2>Vida na Água</h2>
-        <p>Este foi um projeto desenvolvido no curso oferecido pela ElasNaTech.
-        O objetivo era construir um site bonito e responsivo sobre um dos 17 objetivos da ODS.</p>
+      <h2>Veja Mais</h2>
+        <p>Estes são somente alguns dos meus projetos, tenho muita coisa legal então confira mais no meu repositório!
+        </p>
         <div class="atalhos">
-          <a href="https://kaysilvha.github.io/codJA-DesafioElasNaTech/">Ver Projeto</a>
-          <a href="https://github.com/KAYSILVHA/codJA-DesafioElasNaTech">Ver Repo</a>
+          <a href="https://github.com/KAYSILVHA">Ver Repositório</a>
         </div>
       </div>
     </div>

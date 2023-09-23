@@ -455,7 +455,7 @@ footer{
 }
 .dois::before{
   content: "";
-  background-image: url("https://kaysilvha.github.io/cardapioElasNaTech-ohayoConfeitaria/assets/images/logo.png");
+  background-image: url("../imagens/logo.png");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -465,7 +465,7 @@ footer{
 }
 .tres::before{
   content: "";
-  background-image: url("");
+  background-image: url("https://wallpapers.com/images/hd/kimetsu-no-yaiba-beautiful-nezuko-chan-2408ub8b3h7q1az5.jpg");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -475,7 +475,7 @@ footer{
 }
 .quatro::before{
   content: "";
-  background-image: url("");
+  background-image: url("https://i.pinimg.com/736x/5b/9d/be/5b9dbecd45d92b72da84f0a983364783.jpg");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -485,7 +485,7 @@ footer{
 }
 .cinco::before{
   content: "";
-  background-image: url("");
+  background-image: url("https://blog.deliverydireto.com.br/wp-content/uploads/2019/11/Engenharia-de-carda%CC%81pio.jpg");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -496,7 +496,7 @@ footer{
 
 .seis::before{
   content: "";
-  background-image: url("");
+  background-image: url("https://cultura.uol.com.br/upload/tvcultura/esporte/20220720150044_gettyimages-1334436084-1-1-.jpg");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -506,7 +506,7 @@ footer{
 }
 .sete::before{
   content: "";
-  background-image: url("");
+  background-image: url("https://www.hubspot.com/hs-fs/hubfs/best%20resume%20font.jpg?width=610&height=406&name=best%20resume%20font.jpg");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -517,7 +517,7 @@ footer{
 
 .oito::before{
   content: "";
-  background-image: url("");
+  background-image: url("https://png.pngtree.com/background/20230411/original/pngtree-moon-landscape-black-and-white-background-picture-image_2392249.jpg");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -527,7 +527,7 @@ footer{
 }
 .nove::before{
   content: "";
-  background-image: url("");
+  background-image: url("https://kaysilvha.github.io/VNW-Selfcare-Offer/imagens/image7.png");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -537,7 +537,7 @@ footer{
 }
 .dez::before{
   content: "";
-  background-image: url("");
+  background-image: url("https://media.istockphoto.com/id/1303583671/pt/foto/cup-glass-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-background.jpg?s=612x612&w=0&k=20&c=kkvZ2iZFIIJV6p4FkDKBB7tthmVuyX7or1dXeA0pYvg=");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -547,7 +547,7 @@ footer{
 }
 .onze::before{
   content: "";
-  background-image: url("");
+  background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2014%2F05%2Fx-men-rematch.jpg&q=60");
   background-size: 100% 100%;
   position: relative;
   top: 1000;
@@ -558,8 +558,10 @@ footer{
 
 .doze::before{
   content: "";
-  background-image: url("");
-  background-size: 100% 100%;
+  background-image: url("https://www.sinaldetransito.com.br/ferramentas/DIPLAVI/figuras/figuras%20de%20setas/setas%20utilizadas%20de%20verdade/setas%20png%20que%20foram%20trocadas%20por%20svg%20em%20novembro%202013/S-5_hd_sob_picto.png");
+  background-size: 30% 10%;
+  background-repeat: no-repeat;
+  background-position: center;
   position: relative;
   top: 1000;
   width: 100%;
@@ -576,7 +578,7 @@ footer{
 
 .item-project:hover{
   height: auto;
-  padding: 35px 0;
+  padding: 45px 0;
 }
 
 
@@ -593,7 +595,7 @@ footer{
   justify-content: center;
   align-items: center;
   text-align: justify;
-  padding: 10px 20px;
+  padding: 10px 20px 20px;
 }
 
 .item-project a{
@@ -651,7 +653,6 @@ footer{
     background-color: #BB3EE865;
   }
 }
-
 @media screen and (min-width: 705px){
   .apresentation h3{
     font-size: 2rem;
@@ -706,25 +707,23 @@ footer{
   .back{
   width: auto;
   cursor: pointer;
-}
+  }
 
-.itens{
+  .itens{
   width: 80vw;
   gap: 1rem;
-}
+  }
 
-.item{
+  .item{
   width: 10rem;
   height: 10rem;
   background: rgba(87, 87, 87, 0.44);
-}
+  }
 
-.item:hover{
+  .item:hover{
   background-color: #b5b5b520;
   opacity: .6;
-}
-
-
+  }
 }
 @media screen and (min-width: 1012px){
   .init-infos{
@@ -735,7 +734,6 @@ footer{
     width: 70%;
   }
 }
-
 @media screen and (min-width: 1541px){
   .content-about{
     width: 60%;
@@ -786,7 +784,6 @@ footer{
   }
 
 }
-
 @media screen and (max-width: 316px){
   .init{
     justify-content: center;
